@@ -21,4 +21,15 @@ You need java 8 to run this project
    
    * `mvn exec:java -Dexec.mainClass="com.console.drawingboard.Driver"`
 
-    
+**Commands**\
+To make canvas
+`C H W`
+
+To make rectangle
+`R x1 y1 x2 y2`
+
+To make a Line 
+`L x1 y1 x2 y2`
+
+To quit application
+`Q`
